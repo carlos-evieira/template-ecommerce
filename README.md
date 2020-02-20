@@ -1,2 +1,2 @@
 # template-ecommerce
-template de uma homepage de um ecommerce
+Template da homepage de um ecommerce para fins didáticos
